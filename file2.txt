@@ -1,3 +1,4 @@
 Another line1
+added in master
 and line2
 
